@@ -1,5 +1,5 @@
 # UNIVERSIDAD
 
-## Descripsión
+## Descripción
 
-Es uno de primero proyecto que saque de internet, sin entender los concepto basico de internet, un pagina sin tener concimiento del desarrollo web
+Es uno de primero proyecto que saque de internet, sin entender los conceptos básico de internet, una página sin tener conocimiento del desarrollo web
